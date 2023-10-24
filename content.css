@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #344a73 !important;
+}
+.sec1 .row .sec1-image1{
+background-image: url(./corn-field-DF-070523_2807.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 200px;
+
+}
+.sec1 .row .sec1-image2{
+background-image: url(./depositphotos_19598425-stock-photo-cows-grazing-on-a-lovely.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 200px;
+
+}
+.row{
+    height: 500px;
+}
+.row .col-4{
+    color: #eae5d1;
+    height: 580px;
+}
+.sec1-heading{
+    background-color: #eae5d1;
+    color: black;
+    text-align: center;
+}

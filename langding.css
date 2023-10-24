@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #344a73 !important;
+}
+.card{
+    width: 300px;
+    
+}
+.sec1{
+    margin-top: 250px;
+}

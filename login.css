@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #344a73 !important;
+}
+.sec1-heading input{
+    width: 251px;
+}
+.card{
+    width: 350px;
+}
+.sec1{
+    margin-top: 140px;
+}
